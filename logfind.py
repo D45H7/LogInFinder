@@ -4,7 +4,7 @@
 # Forked from https://tools.d4rk5idehacker.or.id
 # Easy Code for learn
 
-import requests,random
+import requests
 
 banner = """
 #  ]     ]   ] ]     ]  ]  ]
